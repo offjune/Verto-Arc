@@ -45,7 +45,7 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/offjune/Verto-Arc
     cd VertoArc
     ```
 
@@ -82,3 +82,4 @@ Abaixo estão os próximos passos planejados para o desenvolvimento do VertoArc:
 ## Contribuição
 
 Este é um projeto de portfólio em desenvolvimento. Sugestões e feedbacks construtivos são muito bem-vindos! Sinta-se à vontade para abrir uma *Issue* no GitHub.
+
